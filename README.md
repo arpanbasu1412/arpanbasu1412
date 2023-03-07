@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **react, sql database, spring**
 
+- 🧑‍💻 Leetcode Account - https://leetcode.com/decodeme/
+
 - 📫 How to reach me **basuarpan1412@gmail.com**
 
 - ⚡ Fun fact **As a software engineer, my favorite type of cookie is the one with a computer chip in it 🍪🤖**
