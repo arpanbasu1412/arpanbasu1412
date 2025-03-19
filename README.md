@@ -16,8 +16,8 @@
 
 - 🎯 Portfolio Website - **https://arpanbasu1412.github.io/**
 
-- Checkout my Latest CV - [click here](https://drive.google.com/file/d/1AXp3F9y8bQVJa2vwrBx8CfVQkq9Sb8KU/view?usp=sharing)
-
+- 💻 Checkout my Latest CV - [click here](https://drive.google.com/file/d/1AXp3F9y8bQVJa2vwrBx8CfVQkq9Sb8KU/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1AXp3F9y8bQVJa2vwrBx8CfVQkq9Sb8KU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click here</a>
 - ⚡ Fun fact **As a software engineer, my favorite type of cookie is the one with a computer chip in it 🍪🤖**
 
 <h3 align="left">Connect with me:</h3>
